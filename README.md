@@ -16,8 +16,11 @@ Frontend/Software Engineer with 2 years of experience in dynamic roles, transiti
 
 ### Contact me: 
 
-<div id="badges" style='display:flex; gap:30px;'>
+<div id="badges" style='display:flex; gap:50px;'>
     <a href="https://t.me/Emil_G_G" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
+     <a href="emil.haraiev@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail icon" />
+  </a>
   </div>
