@@ -16,3 +16,8 @@ Frontend/Software Engineer with 2 years of experience in dynamic roles, transiti
 
 ### Contact me: 
 
+<div id="badges" style='display:flex; gap:30px;'>
+    <a href="https://t.me/Emil_G_G" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
