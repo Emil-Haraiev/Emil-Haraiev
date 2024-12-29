@@ -16,16 +16,16 @@ Frontend/Software Engineer with 2 years of experience in dynamic roles, transiti
 
 ### Contact me: 
 
-<div id="badges" style="display: flex; gap: 10px; margin-right: 30px;">
-    <a href="https://t.me/Emil_G_G" target="_blank" style="display: inline-block; ">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram icon" />
-    </a>
-    
-<a href="mailto:example@gmail.com" target="_blank" style="display: inline-block; ">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail icon" />
-</a>
-
-<a href="https://www.linkedin.com/in/emil-haraiev-891672238/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn icon" />
-</a>
+<div style="display: flex; gap: 10px; margin-right: 30px;">
+  <a href="https://t.me/Emil_G_G" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram icon" />
+  </a>
+  
+  <a href="mailto:example@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail icon" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/emil-haraiev-891672238/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn icon" />
+  </a>
 </div>
