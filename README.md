@@ -7,6 +7,7 @@ Frontend/Software Engineer with 3+ years of __commercial__ experience in dynamic
 
 ![react](https://img.shields.io/badge/-TYPESCRIPT-700CF5?style=for-the-badge&logo=typescript&logoColor=3178C6&color=333)
 ![react](https://img.shields.io/badge/-JAVASCRIPT-700CF5?style=for-the-badge&logo=javascript&logoColor=FFFF00&color=333)
+![react](https://img.shields.io/badge/-TYPESCRIPT-700CF5?style=for-the-badge&logo=nextjs&logoColor=3178C6&color=333)
 ![react](https://img.shields.io/badge/-REACT-700CF5?style=for-the-badge&logo=react&logoColor=61DAFB&color=333)
 ![react](https://img.shields.io/badge/-REACTNATIVE-700CF5?style=for-the-badge&logo=react&logoColor=61DAFB&color=333)
 ![react](https://img.shields.io/badge/-REDUX-700CF5?style=for-the-badge&logo=redux&logoColor=764ABC&color=333)
