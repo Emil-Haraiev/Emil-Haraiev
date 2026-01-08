@@ -1,7 +1,7 @@
 ## Hey, my name is EMIL! 👋
 
 ### About me:
-Frontend/Software Engineer with 3+ years of __commercial__ experience in dynamic roles, transitioning from client-facing positions to software development. Skilled in __JavaScript, React, and TypeScript__. I have a passion for creating user-friendly web applications and continuously improving my skills. With a strong foundation in teamwork and problem-solving, I am eager to contribute to innovative projects and grow in a dynamic development environment.
+Frontend/Software Engineer with 3+ years of __commercial__ experience in dynamic roles, transitioning from client-facing positions to software development. Skilled in __JavaScript, React,NextJs, React Native and TypeScript__. I have a passion for creating user-friendly web applications and continuously improving my skills. With a strong foundation in teamwork and problem-solving, I am eager to contribute to innovative projects and grow in a dynamic development environment.
 
 ### Stake:
 
