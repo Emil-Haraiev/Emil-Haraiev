@@ -3,17 +3,24 @@
 ### About me:
 Software Engineer with 3+ years of __commercial__ experience in dynamic roles, transitioning from client-facing positions to software development. Skilled in __JavaScript, React,NextJs, React Native and TypeScript__. I have a passion for creating user-friendly web applications and continuously improving my skills. With a strong foundation in teamwork and problem-solving, I am eager to contribute to innovative projects and grow in a dynamic development environment.
 
-### Stake:
 
+### Stack:
 ![react](https://img.shields.io/badge/-TYPESCRIPT-700CF5?style=for-the-badge&logo=typescript&logoColor=3178C6&color=333)
 ![react](https://img.shields.io/badge/-JAVASCRIPT-700CF5?style=for-the-badge&logo=javascript&logoColor=FFFF00&color=333)
-![react](https://img.shields.io/badge/-NextJs-700CF5?style=for-the-badge&logo=next&logoColor=3178C6&color=333)
+![react](https://img.shields.io/badge/-HTML5-700CF5?style=for-the-badge&logo=html5&logoColor=E34F26&color=333)
+![react](https://img.shields.io/badge/-CSS3-700CF5?style=for-the-badge&logo=css3&logoColor=1572B6&color=333)
 ![react](https://img.shields.io/badge/-REACT-700CF5?style=for-the-badge&logo=react&logoColor=61DAFB&color=333)
+![react](https://img.shields.io/badge/-NEXTJS-700CF5?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&color=333)
 ![react](https://img.shields.io/badge/-REACTNATIVE-700CF5?style=for-the-badge&logo=react&logoColor=61DAFB&color=333)
+![react](https://img.shields.io/badge/-EXPO-700CF5?style=for-the-badge&logo=expo&logoColor=FFFFFF&color=333)
 ![react](https://img.shields.io/badge/-REDUX-700CF5?style=for-the-badge&logo=redux&logoColor=764ABC&color=333)
+![react](https://img.shields.io/badge/-TAILWIND-700CF5?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&color=333)
+![react](https://img.shields.io/badge/-VITE-700CF5?style=for-the-badge&logo=vite&logoColor=646CFF&color=333)
+![react](https://img.shields.io/badge/-APPWRITE-700CF5?style=for-the-badge&logo=appwrite&logoColor=FD366E&color=333)
+![react](https://img.shields.io/badge/-CONTENTFUL-700CF5?style=for-the-badge&logo=contentful&logoColor=2478CC&color=333)
+![react](https://img.shields.io/badge/-REST%20API-700CF5?style=for-the-badge&logo=api&logoColor=FFFFFF&color=333)
+![react](https://img.shields.io/badge/-GIT-700CF5?style=for-the-badge&logo=git&logoColor=F05032&color=333)
 ![react](https://img.shields.io/badge/-NPM-700CF5?style=for-the-badge&logo=npm&logoColor=CB3837&color=333)
-![react](https://img.shields.io/badge/-vite-700CF5?style=for-the-badge&logo=vite&logoColor=646CFF&color=333)
-![react](https://img.shields.io/badge/-git-700CF5?style=for-the-badge&logo=git&logoColor=F05032&color=333)
 
 
 
