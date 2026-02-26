@@ -1,7 +1,7 @@
 ## Hey, my name is EMIL! 👋
 
 ### About me:
-Software Engineer with 3+ years of __commercial__ experience in dynamic roles, transitioning from client-facing positions to software development. Skilled in __JavaScript, React,NextJs, React Native and TypeScript__. I have a passion for creating user-friendly web applications and continuously improving my skills. With a strong foundation in teamwork and problem-solving, I am eager to contribute to innovative projects and grow in a dynamic development environment.
+Software Engineer with 4 years of commercial experience in both frontend and mobile development. Skilled in JavaScript, TypeScript, React, Next.js, and React Native, with hands-on experience building scalable web and mobile applications. Passionate about creating user-friendly interfaces, clean architecture, and high-performance solutions. Strong team player with solid problem-solving skills, eager to contribute to innovative products and continue growing as a frontend and mobile developer.
 
 
 ### Stack:
